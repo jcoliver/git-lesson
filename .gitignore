@@ -1,6 +1,9 @@
 # RStudio project settings
 *.Rproj
 
+# output folder
+output/*
+
 # History files
 .Rhistory
 .Rapp.history
