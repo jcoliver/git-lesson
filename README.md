@@ -4,4 +4,6 @@
 
 Team: Jeff Oliver, Erin Zylstra
 
+Best local fauna: gila monster
+
 A sample repository for learning Git with RStudio
